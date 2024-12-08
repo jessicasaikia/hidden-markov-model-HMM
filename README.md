@@ -4,6 +4,8 @@ This repository implements a Hidden Markov Model (HMM) for performing Parts-of-S
 ## Introduction to Parts-of-Speech (PoS) Tagging 
 PoS tagging is the process of identifying and labeling grammatical roles of words in texts, supporting applications like machine translation and sentiment analysis. While different languages may have their own PoS tags, I have used my own custom PoS tags for this model. The Table below defines the custom PoS tags used in this model-
 
+![Table](https://github.com/jessicasaikia/hidden-markov-model-HMM/blob/main/Custom%20PoS%20tags%20Table.png)
+
 ## About Hidden Markov Model (HMM)
 The HMM is a statistical model that assumes that a system transitions between a series of hidden states based on probabilities. It is efficient in case of sequential data and POS tagging. 
 
